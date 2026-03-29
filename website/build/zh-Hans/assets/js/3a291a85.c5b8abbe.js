@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_native_website=self.webpackChunkreact_native_website||[]).push([["43780"],{57773:function(e,t,s){s.r(t),s.d(t,{default:()=>n});var a=s(62540),c=s(49519);let n=()=>(0,a.jsx)(c.rd,{to:"/docs/next/releases"})}}]);
